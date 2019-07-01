@@ -5,4 +5,6 @@ class D():
     print("MD1")
   def MD2(self):
     print("MD2")
+  def MD3(self):
+    print("MD3")
 
